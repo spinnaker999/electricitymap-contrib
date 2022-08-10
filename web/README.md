@@ -15,6 +15,7 @@ After the above steps, simply run the following steps:
 
 1. Start the mockserver: `yarn run mockserver`
 2. Run app in another tab: `yarn develop`
+3. If your ESLint is not working add the following to your .vscode workspace settings.json with your path set `{ "eslint.workingDirectories": [ { "directory": "/your/path/to/electricitymap-contrib/web", "changeProcessCWD": true } ] }`
 
 ### Using production API (internal eMap team only)
 
