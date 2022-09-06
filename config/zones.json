@@ -755,6 +755,15 @@
       [-59.89879398793984, 46.117712095699915],
       [-52.12712627126267, 53.850894675202525]
     ],
+        "capacity": {
+      "biomass": 38,
+      "coal": 0,
+      "gas": 0,
+      "hydro": 8034,
+      "nuclear": 0,
+      "oil": 741,
+      "wind": 24
+    },
     "flag_file_name": "ca.png",
     "timezone": "America/St_Johns"
   },
